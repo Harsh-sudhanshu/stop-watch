@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+.display {
+  font-size: 3em;
+}
+.controls {
+  margin-top: 20px;
+}
