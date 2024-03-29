@@ -1,0 +1,34 @@
+# Simple Stopwatch Project
+
+This is a simple stopwatch project created using HTML, CSS, and Vanilla JavaScript.
+
+## Project Description
+
+The stopwatch project consists of a web page with a stopwatch interface that allows users to start, stop, and reset the stopwatch.
+
+### Features
+
+- Start button: Starts the stopwatch. If the stopwatch is stopped, clicking this button will resume it from where it was stopped.
+- Stop button: Pauses the stopwatch.
+- Reset button: Resets the stopwatch to 00:00:00.
+
+## Project Structure
+
+The project consists of the following files:
+
+- `index.html`: The HTML file containing the structure of the web page.
+- `styles.css`: The CSS file containing the styles for the web page.
+- `script.js`: The JavaScript file containing the logic for the stopwatch functionality.
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. Use the provided buttons to control the stopwatch:
+   - Click the "Start" button to start the stopwatch. If the stopwatch is stopped, clicking this button will resume it.
+   - Click the "Stop" button to pause the stopwatch.
+   - Click the "Reset" button to reset the stopwatch to 00:00:00.
+
+## Credits
+
+This project is created by [Your Name]. Feel free to use and modify it as needed.
